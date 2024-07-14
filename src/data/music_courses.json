@@ -1,55 +1,124 @@
 {
-    "courses": [
-      {
-        "id": "1",
-        "slug": "beginner-guitar",
-        "title": "Beginner Guitar",
-        "description": "Learn the basics of guitar playing, including chords, strumming, and simple songs.",
-        "price": 49.99,
-        "instructor": "John Doe",
-        "isFeatured": true,
-        "image": "https://example.com/images/beginner-guitar.jpg"
-      },
-      {
-        "id": "2",
-        "slug": "advanced-piano",
-        "title": "Advanced Piano",
-        "description": "Advanced techniques for piano players looking to take their skills to the next level.",
-        "price": 99.99,
-        "instructor": "Jane Smith",
-        "isFeatured": false,
-        "image": "https://example.com/images/advanced-piano.jpg"
-      },
-      {
-        "id": "3",
-        "slug": "vocal-training",
-        "title": "Vocal Training",
-        "description": "Master your vocal techniques and improve your singing with professional tips and exercises.",
-        "price": 79.99,
-        "instructor": "Emily Brown",
-        "isFeatured": true,
-        "image": "https://example.com/images/vocal-training.jpg"
-      },
-      {
-        "id": "4",
-        "slug": "drum-basics",
-        "title": "Drum Basics",
-        "description": "Get started with drums, learn about different rhythms, and practice basic drumming patterns.",
-        "price": 59.99,
-        "instructor": "Michael Johnson",
-        "isFeatured": false,
-        "image": "https://example.com/images/drum-basics.jpg"
-      },
-      {
-        "id": "5",
-        "slug": "music-theory",
-        "title": "Music Theory",
-        "description": "Understand the fundamentals of music theory, including scales, chords, and notation.",
-        "price": 69.99,
-        "instructor": "Sarah Williams",
-        "isFeatured": true,
-        "image": "https://example.com/images/music-theory.jpg"
-      }
-    ]
-  }
-  
+  "courses": [
+    {
+      "id": "1",
+      "slug": "beginner-guitar",
+      "title": "Beginner Guitar",
+      "description": "Learn the basics of guitar playing, including chords, strumming, and simple songs.",
+      "price": 49.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Electric_guitar.jpg"
+    },
+    {
+      "id": "2",
+      "slug": "advanced-piano",
+      "title": "Advanced Piano",
+      "description": "Advanced techniques for piano players looking to take their skills to the next level.",
+      "price": 99.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Grand_piano_%28crop%29.jpg"
+    },
+    {
+      "id": "3",
+      "slug": "vocal-training",
+      "title": "Vocal Training",
+      "description": "Master your vocal techniques and improve your singing with professional tips and exercises.",
+      "price": 79.99,
+      "instructor": "Emily Brown",
+      "isFeatured": true,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Choir.jpg"
+    },
+    {
+      "id": "4",
+      "slug": "drum-basics",
+      "title": "Drum Basics",
+      "description": "Get started with drums, learn about different rhythms, and practice basic drumming patterns.",
+      "price": 59.99,
+      "instructor": "Michael Johnson",
+      "isFeatured": false,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Drum_kit_in_Rock.jpg"
+    },
+    {
+      "id": "5",
+      "slug": "music-theory",
+      "title": "Music Theory",
+      "description": "Understand the fundamentals of music theory, including scales, chords, and notation.",
+      "price": 69.99,
+      "instructor": "Sarah Williams",
+      "isFeatured": true,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sheet_music.jpg"
+    },
+    {
+      "id": "6",
+      "slug": "jazz-improvisation",
+      "title": "Jazz Improvisation",
+      "description": "Learn the art of improvisation in jazz music, including scales and chord progressions.",
+      "price": 89.99,
+      "instructor": "David Lee",
+      "isFeatured": false,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Jazz_instrument.jpg"
+    },
+    {
+      "id": "7",
+      "slug": "songwriting-basics",
+      "title": "Songwriting Basics",
+      "description": "Explore the fundamentals of songwriting, including lyrics, melody, and harmony.",
+      "price": 79.99,
+      "instructor": "Jessica Green",
+      "isFeatured": true,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Songwriting.jpg"
+    },
+    {
+      "id": "8",
+      "slug": "electronic-music-production",
+      "title": "Electronic Music Production",
+      "description": "Create and produce electronic music using popular software and techniques.",
+      "price": 99.99,
+      "instructor": "Alex White",
+      "isFeatured": false,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/DAW.jpg"
+    },
+    {
+      "id": "9",
+      "slug": "classical-guitar",
+      "title": "Classical Guitar",
+      "description": "Learn classical guitar techniques and play pieces from various eras of classical music.",
+      "price": 59.99,
+      "instructor": "Maria Gonzalez",
+      "isFeatured": true,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Electric_guitar.jpg"
+    },
+    {
+      "id": "10",
+      "slug": "blues-harmonica",
+      "title": "Blues Harmonica",
+      "description": "Master the blues harmonica with lessons on techniques, scales, and famous licks.",
+      "price": 49.99,
+      "instructor": "Tom Wilson",
+      "isFeatured": false,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Harmonica.jpg"
+    },
+    {
+      "id": "11",
+      "slug": "pop-vocals",
+      "title": "Pop Vocals",
+      "description": "Improve your vocal skills for singing pop music, including breath control and stage presence.",
+      "price": 69.99,
+      "instructor": "Lisa Brown",
+      "isFeatured": true,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Choir_singing.jpg"
+    },
+    {
+      "id": "12",
+      "slug": "rock-drumming",
+      "title": "Rock Drumming",
+      "description": "Learn the essentials of rock drumming, including beats, fills, and solo techniques.",
+      "price": 59.99,
+      "instructor": "Chris Martin",
+      "isFeatured": false,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Drum_kit_in_Rock.jpg"
+    }
+  ]
+}
