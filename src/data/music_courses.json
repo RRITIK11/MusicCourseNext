@@ -1,0 +1,55 @@
+{
+    "courses": [
+      {
+        "id": "1",
+        "slug": "beginner-guitar",
+        "title": "Beginner Guitar",
+        "description": "Learn the basics of guitar playing, including chords, strumming, and simple songs.",
+        "price": 49.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "https://example.com/images/beginner-guitar.jpg"
+      },
+      {
+        "id": "2",
+        "slug": "advanced-piano",
+        "title": "Advanced Piano",
+        "description": "Advanced techniques for piano players looking to take their skills to the next level.",
+        "price": 99.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "https://example.com/images/advanced-piano.jpg"
+      },
+      {
+        "id": "3",
+        "slug": "vocal-training",
+        "title": "Vocal Training",
+        "description": "Master your vocal techniques and improve your singing with professional tips and exercises.",
+        "price": 79.99,
+        "instructor": "Emily Brown",
+        "isFeatured": true,
+        "image": "https://example.com/images/vocal-training.jpg"
+      },
+      {
+        "id": "4",
+        "slug": "drum-basics",
+        "title": "Drum Basics",
+        "description": "Get started with drums, learn about different rhythms, and practice basic drumming patterns.",
+        "price": 59.99,
+        "instructor": "Michael Johnson",
+        "isFeatured": false,
+        "image": "https://example.com/images/drum-basics.jpg"
+      },
+      {
+        "id": "5",
+        "slug": "music-theory",
+        "title": "Music Theory",
+        "description": "Understand the fundamentals of music theory, including scales, chords, and notation.",
+        "price": 69.99,
+        "instructor": "Sarah Williams",
+        "isFeatured": true,
+        "image": "https://example.com/images/music-theory.jpg"
+      }
+    ]
+  }
+  
